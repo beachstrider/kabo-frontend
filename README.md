@@ -1,7 +1,6 @@
 # KABO PET FOOD DELIVERY
 
-![image](https://user-images.githubusercontent.com/48445639/219707622-b9f37a88-f4d6-44b7-942d-eb79c3676ba1.png)
-
+![image](https://user-images.githubusercontent.com/48445639/219707758-693fb268-8bd6-4fd6-abe3-eaee96fda6d8.png)
 
 ## Available Scripts
 
